@@ -166,6 +166,7 @@ return [
 
 
 		Modules\Core\Providers\AsgardServiceProvider::class,
+		\L5Swagger\L5SwaggerServiceProvider::class
 	],
 
 	/*
